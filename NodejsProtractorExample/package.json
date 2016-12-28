@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-protractor-example",
+  "version": "0.0.0",
+  "description": "NodejsProtractorExample",
+  "main": "app.js",
+  "author": {
+    "name": "Arun"
+  }
+}
