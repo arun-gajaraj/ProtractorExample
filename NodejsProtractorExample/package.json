@@ -5,5 +5,8 @@
   "main": "app.js",
   "author": {
     "name": "Arun"
+  },
+  "devDependencies": {
+    "protractor": "^4.0.14"
   }
 }
